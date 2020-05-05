@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 125" width="120" height="125">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #d84848 } 
+		.shp1 { fill: #aa1f1f } 
+		.shp2 { fill: #f57b71 } 
+		.shp3 { fill: #daeaf2 } 
+	</style>
+	<g id="Services">
+		<g id="1">
+			<g id="Flag icon">
+				<path id="Shape" class="shp0" d="M120 15L56 15L56 81L120 81L99.84 48L120 15Z" />
+				<path id="Shape 22" class="shp1" d="M56 67.75L56 81L73 70L56 67.75Z" />
+				<path id="Shape" class="shp2" d="M73 70L25 70L6.66 6L73 6L73 70Z" />
+				<path id="Shape 21" class="shp3" d="M4.44 1.18C7.1 0.47 9.84 2.05 10.56 4.72L41.1 118.7C41.81 121.36 40.23 124.1 37.56 124.82C34.9 125.53 32.16 123.95 31.44 121.28L0.9 7.3C0.19 4.64 1.77 1.9 4.44 1.18Z" />
+			</g>
+		</g>
+	</g>
+</svg>
